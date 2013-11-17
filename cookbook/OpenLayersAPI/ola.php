@@ -8,7 +8,7 @@
  Copyright Statement 
  -------------------
  
- Copyright (c) 2011-2012, Pierre-Alain Dorange, with a few additions made by StefCT (2013)..
+ Copyright (c) 2011-2012, Pierre-Alain Dorange, with a few additions made by StefCT (2013).
  OpenLayers Map API for PmWiki.
  Adapted from :
     Google Map API for PmWiki.
